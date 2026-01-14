@@ -52,6 +52,14 @@ https://youtu.be/urIpZnCTeKw?si=14l_-hOnIBcrKiPf Watch this video for faster pro
 
 https://youtu.be/MPLfOoRUKMU?si=KZCCsXYSdGqQeoFr Watch this YouTube video for using the GUI text file in Visual Studio Community version
 
+## 👤 Author
+
+**[Muhammad Zeeshan Islam](https://github.com/zeeshan020dev)**  
+Co-Founder – Unicodrex | Technical Associate – Skill Sprint
+
+[![GitHub](https://img.shields.io/badge/GitHub-zeeshan020dev-black?logo=github)](https://github.com/zeeshan020dev)
+
+
 
 
 
